@@ -105,3 +105,6 @@ Feel free to connect with me or explore my projects!
 
 
 ###
+## Connect with me:
+[![Email](https://img.shields.io/badge/Email-codestackr%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codestackr@gmail.com)
+

@@ -107,9 +107,37 @@ Feel free to connect with me or explore my projects!
 ###
 ## Welcome to My Profile!
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex;">
+
+<!-- Sidebar section -->
+<div style="width: 30%; min-width: 200px;">
+
+### About Me
+- 👋 Hi, I’m [Your Name]
+- 💻 I create tutorials on coding.
+- 🎯 2025 Goals: Learn more about web3.
+- 🎸 Fun fact: I love playing guitar.
+
+### Connect with Me
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+
+### Languages and Tools
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?style=flat-square&logo=visual-studio-code)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/React-Framework-blue?style=flat-square&logo=react)
+
+</div>
+
+<!-- Main content section -->
+<div style="width: 70%; padding-left: 20px;">
+
+### Latest YouTube Videos
+<!-- Add content like embedded YouTube links or a list of your videos -->
+
+</div>
+</div>
 
 
 

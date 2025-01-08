@@ -7,7 +7,7 @@
 <h2 align="left">Hi there,  I'm Mehedi Hasan</h2>
 
 ###
-<h2 align="left">Frontend Web Developer</h2>
+
 
 ### 👋 About Me
 

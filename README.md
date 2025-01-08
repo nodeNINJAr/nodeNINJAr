@@ -23,7 +23,7 @@ When I’m not coding, you’ll find me playing cricket, exploring new technolog
 
 Feel free to connect with me or explore my projects!
 
-📫 **Contact**: mehedihasan645356@gmail.com  
+📫 **Contact**: devmehedihasan7@gmail.com  
 🌐 **Portfolio**: https://nodeninja.netlify.app
 
 

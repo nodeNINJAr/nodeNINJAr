@@ -23,7 +23,7 @@ When I’m not coding, you’ll find me playing cricket, exploring new technolog
 Feel free to connect with me or explore my projects!
 
 📫 **Contact**: mehedihasan645356@gmail.com  
-🌐 **Portfolio**: [https://nodeninja.netlify.app]  
+🌐 **Portfolio**: https://nodeninja.netlify.app
 
 
 ###
@@ -97,9 +97,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=node-NINJAr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=node-NINJAr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=node-NINJAr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
+
 
 ###

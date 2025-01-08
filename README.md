@@ -8,7 +8,23 @@
 
 ###
 
-<h4 align="left">About Me :</h4>
+### 👋 About Me
+
+Hello! I'm Mehdi Hassan, a passionate **MERN Stack Developer** with a background in **Physics**. I specialize in building dynamic websites and web applications, combining creativity and functionality to deliver user-friendly experiences.
+
+- 🔭 I’m currently working on projects like **Coaching for Good** (career consulting platform) and **EquiSports** (sports equipment shop).
+- 🌱 I’m constantly learning and improving my skills, with a goal to master **React Native** and create innovative mobile applications.
+- 🚀 Some of my completed projects include **Sagey**, a platform for booking language tutors globally.
+- 💻 I enjoy creating custom designs using **HTML, CSS**, and modern JavaScript frameworks.
+- 🎯 My future aspirations include developing apps for doctors and diagnostic centers to streamline their workflows.
+
+When I’m not coding, you’ll find me playing cricket, exploring new technologies, or working on small JavaScript projects. 
+
+Feel free to connect with me or explore my projects!
+
+📫 **Contact**: mehdi.hassan.dev@gmail.com  
+🌐 **Portfolio**: [Your Portfolio Link]  
+
 
 ###
 

@@ -28,7 +28,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-<p align="left">Languages/Frameworks I'm good at :</p>
+**Languages/Frameworks I'm good at :**
 
 ###
 
@@ -50,7 +50,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-<p align="left">Languages/Frameworks I'm learning :</p>
+**Languages/Frameworks I'm learning :**
 
 ###
 
@@ -64,7 +64,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-<p align="left">Environments I work with :</p>
+**Environments I work with :**
 
 ###
 
@@ -80,7 +80,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-## Connect with me :
+ **Connect with me :**
 
 ###
 

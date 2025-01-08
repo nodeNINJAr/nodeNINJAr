@@ -80,7 +80,7 @@ Feel free to connect with me or explore my projects!
 
 ###
 
-<p align="left">Connect with me :</p>
+## Connect with me :
 
 ###
 

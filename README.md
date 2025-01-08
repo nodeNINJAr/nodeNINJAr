@@ -4,13 +4,14 @@
 
 ###
 
-<h2 align="left">Hi there,  I'm Mehedi Hasan Ridoy</h2>
+<h2 align="left">Hi there,  I'm Mehedi Hasan</h2>
 
 ###
+<h2 align="left">Frontend Web Developer</h2>
 
 ### 👋 About Me
 
-Hello! I'm Mehedi Hassan, a passionate **Frontend Web Developer** with a background in **Physics**. I specialize in building dynamic websites and web applications, combining creativity and functionality to deliver user-friendly experiences.
+Hello! I'm Mehedi Hasan, a passionate **Frontend Web Developer** with a background in **Physics**. I specialize in building dynamic websites and web applications, combining creativity and functionality to deliver user-friendly experiences.
 
 - 🔭 I’m currently working on projects like **Coaching for Good** (career consulting platform) and **EquiSports** (sports equipment shop).
 - 🌱 I’m constantly learning and improving my skills, with a goal to master **React Native** and create innovative mobile applications.

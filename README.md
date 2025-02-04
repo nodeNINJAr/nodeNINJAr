@@ -1,13 +1,13 @@
 # 👋 Mehedi Hasan  
 
 **Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
-[Portfolio](https://nodeninja.netlify.app) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Discord](https://discord.com/invite/your-server)  
+[Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discord.com/invite/your-server)  
 
 ---
 
 ## 👩‍💻 About Me  
 
-Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a degree in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
+Hello! I'm **Mehedi Hasan Ridoy**, a passionate **Frontend Web Developer** with a degree in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
 
 I bring a unique blend of analytical thinking from my physics background and creativity in web development to build intuitive and scalable solutions.  
 
@@ -60,7 +60,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=github"&include_all_commits=true&count_private=true&disable_animations=false alt="GitHub Stats"  height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=false" height="200" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&card_width=300&langs_count=5&theme=github&hide_border=false" height="200" alt="Languages Graph" />
 </div>
 
 ---

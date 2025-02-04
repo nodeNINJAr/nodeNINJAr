@@ -60,7 +60,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=mehedihasan&theme=radical" alt="GitHub Streak" />
 </div>
 

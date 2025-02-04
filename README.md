@@ -6,7 +6,7 @@
 ---
  
 **Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
-[Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discord.com/invite/your-server)  
+[Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discordapp.com/users/1068481777418649650)  
 
 ---
 
@@ -78,7 +78,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 📧 **Email**: devmehedihasan7@gmail.com  
 🌐 **Portfolio**: [https://nodeninja.netlify.app](https://nodeninja.netlify.app)  
-💬 **Discord**: [Dm me](https://discord.com/invite/your-server)  
+💬 **Discord**: [Please dm me](https://discordapp.com/users/1068481777418649650)  
 
 ---
 

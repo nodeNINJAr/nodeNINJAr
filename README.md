@@ -4,10 +4,6 @@
 
 ###
 
-<h2 align="left">Hi there,  I'm Mehedi Hasan</h2>
-
-###
-
 
 ### 👋 About Me
 

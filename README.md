@@ -1,6 +1,6 @@
 # 👋 Mehedi Hasan  
 
-**Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
+**Crafting Seamless User Experiences | Turning Ideas into Code**  
 [Portfolio](https://nodeninja.netlify.app) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Discord](https://discord.com/invite/your-server)  
 
 ---
@@ -8,6 +8,8 @@
 ## 👩‍💻 About Me  
 
 Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a background in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
+
+I bring a unique blend of analytical thinking from my physics background and creativity in web development to build intuitive and scalable solutions.  
 
 ### 🚀 What I’m Working On:
 - **Nexus Tech**: An employee management web app with React, Express, and MongoDB.  
@@ -17,11 +19,14 @@ Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a back
 - **TypeScript**: For better scalability and type safety.  
 - **Express.js**: To strengthen backend development skills.  
 
+### 🎯 Fun Fact:
+When I'm not coding, you'll find me exploring the mysteries of the universe or playing chess!  
+
 ---
 
 ## 🛠️ Skills & Tools  
 
-### **Languages & Frameworks I'm Proficient In**:  
+### **Languages & Frameworks**:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -41,9 +46,31 @@ Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a back
 
 ## 🏗️ Projects  
 
-- **[Coaching for Good](https://github.com/mehedihasan/coaching-for-good)**: A career consulting platform for skill development and growth.  
-- **[EquiSports](https://github.com/mehedihasan/equisports)**: A sports equipment shop showcasing diverse gear.  
-- **[SayEasy](https://github.com/mehedihasan/sayeasy)**: A platform for booking language tutors globally.  
+### [Coaching for Good](https://github.com/mehedihasan/coaching-for-good)  
+**Description**: A career consulting platform for skill development and growth.  
+**Features**: User authentication, course enrollment, progress tracking.  
+**Tech Stack**: React, Node.js, MongoDB.  
+**Live Demo**: [https://coachingforgood.com](https://coachingforgood.com)  
+
+### [EquiSports](https://github.com/mehedihasan/equisports)  
+**Description**: A sports equipment shop showcasing diverse gear.  
+**Features**: Product filtering, cart management, responsive design.  
+**Tech Stack**: React, CSS3, Firebase.  
+**Live Demo**: [https://equisports.com](https://equisports.com)  
+
+### [SayEasy](https://github.com/mehedihasan/sayeasy)  
+**Description**: A platform for booking language tutors globally.  
+**Features**: Tutor search, booking system, user reviews.  
+**Tech Stack**: React, Express, MongoDB.  
+**Live Demo**: [https://sayeasy.com](https://sayeasy.com)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedihasan&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mehedihasan&theme=radical)  
 
 ---
 
@@ -55,4 +82,10 @@ Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a back
 
 ---
 
-⭐ **Feel free to explore my repositories and follow me for updates!**  
+### 💡 Let's Collaborate!  
+I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out!  
+
+---
+
+⭐ **"The best way to predict the future is to create it."** – Peter Drucker  
+Thanks for visiting my profile! 😊  

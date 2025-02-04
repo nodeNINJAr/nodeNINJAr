@@ -62,10 +62,6 @@ I bring a unique blend of analytical thinking from my physics background and cre
   <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=github"&include_all_commits=true&count_private=true&disable_animations=false alt="GitHub Stats"  height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=false" height="200" alt="Languages Graph" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
 
 ---
 

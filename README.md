@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width:"100%" height="200" src="https://i.ibb.co.com/p6Yp8gyb/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png"  />
+  <img style="width:"1700" height="200" src="https://i.ibb.co.com/5WY15M7Q/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-1.png"  />
 </div>
 
 # 👋 Mehedi Hasan Ridoy

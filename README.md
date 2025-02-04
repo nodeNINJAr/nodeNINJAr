@@ -2,7 +2,8 @@
   <img style="width:"1700" height="200" src="https://i.ibb.co.com/5WY15M7Q/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner-1.png"  />
 </div>
 
-# 👋 Mehedi Hasan Ridoy
+👋 Mehedi Hasan Ridoy
+---
  
 **Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
 [Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discord.com/invite/your-server)  

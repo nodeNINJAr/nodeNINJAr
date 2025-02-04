@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/jbV2RD7/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/p6Yp8gyb/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png"  />
 </div>
 
 # 👋 Mehedi Hasan Ridoy

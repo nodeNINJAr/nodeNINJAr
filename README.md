@@ -16,7 +16,9 @@ I bring a unique blend of analytical thinking from my physics background and cre
 - **Digital Diagnostics System**: A comprehensive platform for patient and diagnostic management.  
 
 ### 🌱 What I’m Learning:
-- **TypeScript**: For better scalability and type safety.  
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>  
 
 ---
 
@@ -28,7 +30,6 @@ I bring a unique blend of analytical thinking from my physics background and cre
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -39,10 +40,10 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 ## 🏗️ Projects  
 
-### [Coaching for Good](https://github.com/mehedihasan/coaching-for-good)  
-**Description**: A career consulting platform for skill development and growth.  
-**Tech Stack**: React, Node.js, MongoDB.  
-**Live Demo**: [https://coachingforgood.com](https://coachingforgood.com)  
+### [Nexus Tech](https://github.com/mehedihasan/nexus-tech)  
+**Description**: An employee management web app for streamlining HR operations and managing employee data.  
+**Tech Stack**: React, Express, MongoDB.  
+**Live Demo**: [https://nexustech.com](https://nexustech.com)  
 
 ### [EquiSports](https://github.com/mehedihasan/equisports)  
 **Description**: A sports equipment shop showcasing diverse gear.  

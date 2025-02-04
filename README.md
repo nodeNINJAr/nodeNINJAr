@@ -78,7 +78,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 📧 **Email**: devmehedihasan7@gmail.com  
 🌐 **Portfolio**: [https://nodeninja.netlify.app](https://nodeninja.netlify.app)  
-💬 **Discord**: [join my server](https://discord.com/invite/your-server)  
+💬 **Discord**: [Dm me](https://discord.com/invite/your-server)  
 
 ---
 

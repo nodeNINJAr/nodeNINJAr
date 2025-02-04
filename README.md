@@ -1,5 +1,10 @@
-# 👋 Mehedi Hasan  
+# 👋 Mehedi Hasan Ridoy
 
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/jbV2RD7/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner.png"  />
+</div>
+ ---
+ 
 **Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
 [Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discord.com/invite/your-server)  
 
@@ -39,26 +44,26 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 ## 🏗️ Projects  
 
-### [Nexus Tech](https://github.com/mehedihasan/nexus-tech)  
+### [Nexus Tech](https://github.com/nodeNINJAr/nexus-tech-client)  
 **Description**: An employee management web app for streamlining HR operations and managing employee data.  
-**Tech Stack**: React, Express, MongoDB.  
-**Live Demo**: [https://nexustech.com](https://nexustech.com)  
+**Tech Stack**: React, Express, MongoDB, Firebase.    
+**Live Demo**: [https://nexustech-b3673.web.app](https://nexustech-b3673.web.app)
 
-### [EquiSports](https://github.com/mehedihasan/equisports)  
+### [EquiSports](https://github.com/nodeNINJAr/equiSports-client)  
 **Description**: A sports equipment shop showcasing diverse gear.  
-**Tech Stack**: React, CSS3, Firebase.  
-**Live Demo**: [https://equisports.com](https://equisports.com)  
+**Tech Stack**:React, Express, MongoDB, Firebase.  
+**Live Demo**: [https://equisports-8bcb6.web.app](https://equisports-8bcb6.web.app)  
 
-### [SayEasy](https://github.com/mehedihasan/sayeasy)  
+### [SayEasy](https://github.com/nodeNINJAr/sayEasy-client)  
 **Description**: A platform for booking language tutors globally.  
-**Tech Stack**: React, Express, MongoDB.  
-**Live Demo**: [https://sayeasy.com](https://sayeasy.com)  
+**Tech Stack**: React, Express, MongoDB, Firebase.    
+**Live Demo**: [https://sayeasy-95352.web.app](https://sayeasy-95352.web.app)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=github"&include_all_commits=true&count_private=true&disable_animations=false alt="GitHub Stats"  height="200" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&card_width=300&langs_count=5&theme=github&hide_border=false" height="200" alt="Languages Graph" /> -->
 </div>
@@ -69,7 +74,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 📧 **Email**: devmehedihasan7@gmail.com  
 🌐 **Portfolio**: [https://nodeninja.netlify.app](https://nodeninja.netlify.app)  
-💬 **Discord**: [Your Server/Handle](https://discord.com/invite/your-server)  
+💬 **Discord**: [join my server](https://discord.com/invite/your-server)  
 
 ---
 

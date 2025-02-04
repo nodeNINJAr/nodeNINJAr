@@ -66,7 +66,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 ## 📊 GitHub Stats  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=github&include_all_commits=true&count_private=true&disable_animations=false" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=github&include_all_commits=true&count_private=true&disable_animations=false" alt="GitHub Stats" width="420" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&card_width=280&langs_count=5&theme=github&hide_border=false" height="200" alt="Languages Graph" />
 </div>
 

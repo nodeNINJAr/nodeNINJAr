@@ -12,7 +12,6 @@ Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a degr
 I bring a unique blend of analytical thinking from my physics background and creativity in web development to build intuitive and scalable solutions.  
 
 ### 🚀 What I’m Working On:
-- **Nexus Tech**: An employee management web app with React, Express, and MongoDB.  
 - **Digital Diagnostics System**: A comprehensive platform for patient and diagnostic management.  
 
 ### 🌱 What I’m Learning:
@@ -61,7 +60,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mehedihasan&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nodeNINJAr&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---

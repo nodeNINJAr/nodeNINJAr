@@ -1,96 +1,58 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/jbV2RD7/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner.png"  />
-</div>
+# 👋 Mehedi Hasan  
 
-###
+**Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
+[Portfolio](https://nodeninja.netlify.app) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Discord](https://discord.com/invite/your-server)  
 
+---
 
-### 👋 About Me
+## 👩‍💻 About Me  
 
-Hello! I'm Mehedi Hasan, a passionate **Frontend Web Developer** with a background in **Physics**. I specialize in building dynamic websites and web applications, combining creativity and functionality to deliver user-friendly experiences.
+Hello! I'm **Mehedi Hasan**, a passionate **Frontend Web Developer** with a background in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
 
-- 🔭 I’m currently working on projects like **Coaching for Good** (career consulting platform) and **EquiSports** (sports equipment shop).
-- 🌱 I’m constantly learning and improving my skills, with a goal to master **React Native** and create innovative mobile applications.
-- 🚀 Some of my completed projects include **SayEasy**, a platform for booking language tutors globally.
-- 💻 I enjoy creating custom designs using **HTML, CSS**, and modern JavaScript frameworks.
-- 🎯 My future aspirations include developing apps for doctors and diagnostic centers to streamline their workflows.
+### 🚀 What I’m Working On:
+- **Nexus Tech**: An employee management web app with React, Express, and MongoDB.  
+- **Digital Diagnostics System**: A comprehensive platform for patient and diagnostic management.  
 
-When I’m not coding, you’ll find me playing cricket, exploring new technologies, or working on small JavaScript projects. 
+### 🌱 What I’m Learning:
+- **TypeScript**: For better scalability and type safety.  
+- **Express.js**: To strengthen backend development skills.  
 
-Feel free to connect with me or explore my projects!
+---
 
-📫 **Contact**: devmehedihasan7@gmail.com  
-🌐 **Portfolio**: https://nodeninja.netlify.app
+## 🛠️ Skills & Tools  
 
+### **Languages & Frameworks I'm Proficient In**:  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-###
+### **Currently Learning**:  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-**Languages/Frameworks I'm good at :**
+### **Environments & Tools**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+## 🏗️ Projects  
 
-###
+- **[Coaching for Good](https://github.com/mehedihasan/coaching-for-good)**: A career consulting platform for skill development and growth.  
+- **[EquiSports](https://github.com/mehedihasan/equisports)**: A sports equipment shop showcasing diverse gear.  
+- **[SayEasy](https://github.com/mehedihasan/sayeasy)**: A platform for booking language tutors globally.  
 
-**Languages/Frameworks I'm learning :**
+---
 
-###
+## 📬 Get in Touch  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+📧 **Email**: devmehedihasan7@gmail.com  
+🌐 **Portfolio**: [https://nodeninja.netlify.app](https://nodeninja.netlify.app)  
+💬 **Discord**: [Your Server/Handle](https://discord.com/invite/your-server)  
 
-###
+---
 
-**Environments I work with :**
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
-
-###
-
- **Connect with me :**
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-</div>
-
-###
-
-
-
-
-
+⭐ **Feel free to explore my repositories and follow me for updates!**  

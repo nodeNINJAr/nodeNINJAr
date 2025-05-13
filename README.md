@@ -5,7 +5,7 @@
 👋 Mehedi Hasan Ridoy
 ---
  
-**Frontend Web Developer | MERN Stack Enthusiast | Physics Graduate**  
+** MERN Stack Developer | Full Stack Enthusiast | Physics Graduate**  
 [Portfolio](https://nodeninja.netlify.app) | [LinkedIn](www.linkedin.com/in/dev-mehedi-hasan-ridoy) | [Discord](https://discordapp.com/users/1068481777418649650)  
 
 ---

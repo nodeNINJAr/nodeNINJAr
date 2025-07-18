@@ -40,6 +40,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Typescript" />
 
 </div>
 

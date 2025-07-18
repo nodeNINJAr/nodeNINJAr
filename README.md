@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me  
 
-Hello! I'm **Mehedi Hasan Ridoy**, a passionate **Frontend Web Developer** with a degree in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
+Hello! I'm **Mehedi Hasan Ridoy**, a passionate **Mern Stack Developer** with a degree in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
 
 I bring a unique blend of analytical thinking from my physics background and creativity in web development to build intuitive and scalable solutions.  
 

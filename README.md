@@ -39,8 +39,8 @@ I bring a unique blend of analytical thinking from my physics background and cre
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Typescript" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
 
 </div>
 

@@ -41,7 +41,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/postgres-007ACC?style=for-the-badge&logo=postgres&logoColor=white" alt="postgres" />
+  <img src="https://img.shields.io/badge/postgresql-007ACC?style=for-the-badge&logo=postgres&logoColor=white" alt="postgres" />
   <img src="https://img.shields.io/badge/prisma-007ACC?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
 
 </div>

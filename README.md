@@ -21,7 +21,7 @@ I bring a unique blend of analytical thinking from my physics background and cre
 
 ### 🌱 What I’m Learning:
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/go-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="go" />
 </div>  
 
 ---

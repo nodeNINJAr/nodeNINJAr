@@ -12,9 +12,9 @@
 
 ## 👩‍💻 About Me  
 
-Hello! I'm **Mehedi Hasan Ridoy**, a passionate **Mern Stack Developer** with a degree in **Physics**. I specialize in creating dynamic and user-friendly websites and applications using modern tools and technologies. My goal is to combine creativity and functionality to deliver impactful solutions.  
+Hello! I'm ** Mehedi Hasan Ridoy **, a backend-focused Full Stack Developer with a background in Physics. I specialize in building scalable backend systems, efficient APIs, and seamless full-stack applications using modern web technologies.
 
-I bring a unique blend of analytical thinking from my physics background and creativity in web development to build intuitive and scalable solutions.  
+My physics background enhances my analytical thinking, enabling me to design clean, logical, and performance-driven solutions. I enjoy transforming complex ideas into reliable, production-ready applications.
 
 ### 🚀 What I’m Working On:
 - **Digital Diagnostics System**: A comprehensive platform for patient and diagnostic management.  

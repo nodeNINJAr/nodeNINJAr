@@ -1,112 +1,295 @@
 <div align="center">
-  <img width="1700" height="220" src="https://i.ibb.co.com/7JYRycYC/Purple-Modern-Geometric-Graphic-Designer-Linked-In-Banner.png"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mehedi%20Hasan%20Ridoy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
-<h1 align="center">👋 Mehedi Hasan Ridoy</h1>
-<p align="center"><strong>Backend-Focused Full Stack Developer | Full Stack Enthusiast | Physics Graduate</strong></p>
-<p align="center">[Portfolio](https://nodeninja.netlify.app) • [LinkedIn](https://linkedin.com/in/dev-mehedi-hasan-ridoy) • [Discord](https://discordapp.com/users/1068481777418649650)</p>
+<div align="center">
+  
+### 👨‍💻 Backend-Focused Full Stack Developer | Full Stack Enthusiast | Physics Graduate
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white)](https://nodeninja.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-mehedi-hasan-ridoy)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1068481777418649650)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmehedihasan7@gmail.com)
 
-## 👩‍💻 About Me  
-Hello! I'm <strong>Mehedi Hasan Ridoy</strong>, a backend-focused Full Stack Developer with a background in Physics. I specialize in building scalable backend systems, efficient APIs, and seamless full-stack applications using modern web technologies.
-
-My physics background enhances my analytical thinking, enabling me to design clean, logical, and performance-driven solutions. I enjoy transforming complex ideas into reliable, production-ready applications.
-
-### 🚀 Current Projects
-- **Digital Diagnostics System**: Comprehensive platform for patient and diagnostic management.
-
-### 🌱 Learning
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
 ---
 
-## 🧰 Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 20px;">
-  <!-- Backend -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🚀 About Me
+
+```typescript
+const ridoy = {
+    name: "Mehedi Hasan Ridoy",
+    role: "Backend-Focused Full Stack Developer",
+    education: "Physics Graduate",
+    location: "Dhaka, Bangladesh 🇧🇩",
+    
+    currentFocus: [
+        "Building scalable backend systems",
+        "Designing efficient APIs",
+        "Learning Go programming"
+    ],
+    
+    philosophy: "Physics + Code = Logic-driven solutions",
+    
+    currentProject: {
+        name: "Digital Diagnostics System",
+        description: "Comprehensive patient & diagnostic management",
+        status: "In Development 🔨"
+    }
+};
+```
+
+### 💭 What Drives Me
+
+My background in **Physics** isn't just academic—it shapes how I code. I approach every problem with analytical precision, breaking down complex systems into elegant, performant solutions. Whether it's optimizing database queries or architecting microservices, I bring the same rigor that physicists apply to understanding the universe.
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🔥 Core Technologies</b></summary>
+<br>
+
+**Backend & Runtime**
+```
+Node.js  ████████████████████░  95%
+Express  ████████████████████░  95%
+TypeScript  ██████████████████░  90%
+```
+
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" />
+</div>
 
-  <!-- Database & DevOps -->
+**Database & ORM**
+```
+PostgreSQL  ████████████████░░░  85%
+Prisma  ██████████████████░░░  88%
+MongoDB  ██████████████████░░░  87%
+```
+
+<div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
 
-  <!-- Frontend -->
+**Frontend & UI**
+```
+React  ████████████████████░  92%
+Next.js  ███████████████████░  91%
+TailwindCSS  ████████████████░░░  88%
+```
+
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+**DevOps & Tools**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+**Currently Learning**
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+</details>
 
 ---
 
-## 🚀 Projects
+## 🎯 Featured Projects
+
+<div align="center">
 
 ### 💳 Digital Wallet System
-[🔗 GitHub Repo](https://github.com/nodeNINJAr/digital-wallet-system)
+**Modern Transaction Management Platform**
 
-**📝 Description:**  
-Modern digital wallet application for managing transactions efficiently.
+[![Repo](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/nodeNINJAr/digital-wallet-system)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-4A90E2?style=for-the-badge)](https://your-demo-link.com)
 
-**🛠 Tech Stack:**  
-- **Frontend:** `React 19`, `TypeScript`, `TailwindCSS + Tailwind Merge`, `Redux Toolkit`, `React Hook Form + Zod`, `Framer Motion`
-- **UI Components:** `Radix UI`, `Lucide React`
-- **Libraries:** `Axios`, `JS-Cookie`, `JWT-Decode`, `Date-fns`, `Class Variance Authority`, `Driver.js`, `Sonner`
-- **Dev Tools:** `Vite`, `ESLint`, `tw-animate-css`
+</div>
 
-**🌐 Live Demo:** [Live Demo Link](#)
+```yaml
+Tech Stack:
+  Frontend:
+    - React 19 + TypeScript
+    - Redux Toolkit (State Management)
+    - TailwindCSS + Tailwind Merge
+    - Framer Motion (Animations)
+    - React Hook Form + Zod (Validation)
+  
+  UI Components:
+    - Radix UI
+    - Lucide React Icons
+    - Sonner (Notifications)
+  
+  Features:
+    - Real-time transaction tracking
+    - Secure authentication (JWT)
+    - Responsive design
+    - Smooth animations & transitions
+```
 
 ---
+
+<div align="center">
 
 ### 📁 Nexus Tech
-[🔗 GitHub Repo](https://github.com/nodeNINJAr/nexus-tech-client)
+**Enterprise HR & Employee Management**
 
-**📝 Description:**  
-Employee management app for HR operations and workflow efficiency.
+[![Repo](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/nodeNINJAr/nexus-tech-client)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-4A90E2?style=for-the-badge)](https://nexustech-b3673.web.app)
 
-**🛠 Tech Stack:** `React`, `Express`, `MongoDB`, `Firebase`
+**Tech:** `React` `Express` `MongoDB` `Firebase`
 
-**🌐 Live Demo:** https://nexustech-b3673.web.app
+Streamlined HR operations with automated workflows, employee tracking, and performance analytics.
 
----
-
-### 🌍 SayEasy
-[🔗 GitHub Repo](https://github.com/nodeNINJAr/sayEasy-client)
-
-**📝 Description:**  
-Global language tutoring platform.
-
-**🛠 Tech Stack:** `React`, `Express`, `MongoDB`, `Firebase`
-
-**🌐 Live Demo:** https://sayeasy-95352.web.app
-
----
-
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&include_all_commits=true&count_private=true&show_icons=true&theme=github&disable_animations=false" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nodeNINJAr&locale=en&layout=compact&langs_count=5&theme=github&hide_border=false" alt="Languages Graph" width="380" />
 </div>
 
 ---
 
-## 📬 Get in Touch  
-📧 **Email:** devmehedihasan7@gmail.com  
-🌐 **Portfolio:** [nodeninja.netlify.app](https://nodeninja.netlify.app)  
-💬 **Discord:** [DM me](https://discordapp.com/users/1068481777418649650)
+<div align="center">
+
+### 🌍 SayEasy
+**Global Language Learning Platform**
+
+[![Repo](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/nodeNINJAr/sayEasy-client)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-4A90E2?style=for-the-badge)](https://sayeasy-95352.web.app)
+
+**Tech:** `React` `Express` `MongoDB` `Firebase`
+
+Connecting language learners with native tutors worldwide through an intuitive booking system.
+
+</div>
 
 ---
 
-### 💡 Let's Collaborate!  
-I'm always open to opportunities, collaborations, or friendly chats. Reach out!
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeNINJAr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodeNINJAr&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeNINJAr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Activity Graph" />
+</div>
 
 ---
 
-⭐ **"The best way to predict the future is to create it."** – Peter Drucker  
-Thanks for visiting my profile! 😊
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nodeNINJAr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeNINJAr&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💼 What I Can Build
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/api-settings.png"/>
+      <br><b>RESTful APIs</b>
+      <br>Scalable & documented
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/database.png"/>
+      <br><b>Database Design</b>
+      <br>Optimized schemas
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/web.png"/>
+      <br><b>Full Stack Apps</b>
+      <br>End-to-end solutions
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/docker.png"/>
+      <br><b>Containerization</b>
+      <br>Docker deployments
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/security-checked.png"/>
+      <br><b>Auth Systems</b>
+      <br>JWT & OAuth
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/react.png"/>
+      <br><b>Modern UIs</b>
+      <br>React & Next.js
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Fun Facts
+
+- 🔭 Physics graduate turned code wizard
+- 🎯 Backend enthusiast with frontend finesse  
+- 🧩 Love solving complex architectural challenges
+- 📚 Currently mastering Go programming
+- ☕ Powered by coffee and clean code
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss technology!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-4A90E2?style=for-the-badge)](https://nodeninja.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dev-mehedi-hasan-ridoy)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail)](mailto:devmehedihasan7@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat_With_Me-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/1068481777418649650)
+
+### 💡 Open for:
+✅ Freelance Projects • ✅ Full-time Opportunities • ✅ Open Source Collaboration • ✅ Tech Discussions
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Philosophy
+
+> *"The best way to predict the future is to create it."* – Peter Drucker
+
+<img src="https://komarev.com/ghpvc/?username=nodeNINJAr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>

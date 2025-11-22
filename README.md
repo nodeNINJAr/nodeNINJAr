@@ -210,9 +210,14 @@ Focus Areas:
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" style="vertical-align: middle;" /> 
-  Featured Projects
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">Featured Projects</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <div align="center">
 
@@ -285,9 +290,14 @@ Comprehensive patient & diagnostic management
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Statistics" width="35" height="35" style="vertical-align: middle;" /> 
-  GitHub Statistics
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Statistics" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">GitHub Statistics</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
@@ -305,9 +315,14 @@ Comprehensive patient & diagnostic management
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Growth" width="35" height="35" style="vertical-align: middle;" /> 
-  Contribution Graph
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Growth" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">Contribution Graph</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeNINJAr&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" />
@@ -316,9 +331,14 @@ Comprehensive patient & diagnostic management
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Skills" width="35" height="35" style="vertical-align: middle;" /> 
-  What I Bring to the Table
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Skills" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">What I Bring to the Table</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <div align="center">
 
@@ -333,9 +353,14 @@ Comprehensive patient & diagnostic management
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/bullseye.png" alt="Focus" width="35" height="35" style="vertical-align: middle;" /> 
-  Current Focus
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/bullseye.png" alt="Focus" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">Current Focus</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <div align="center">
 
@@ -369,9 +394,14 @@ mindmap
 ---
 
 <h2>
-  <img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" style="vertical-align: middle;" /> 
-  Quick Facts
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">Quick Facts</span></td>
+    </tr>
+  </table>
 </h2>
+<br clear="left"/>
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/physics.png" alt="Physics" width="35" height="35" /> Physics grad who fell in love with code<br>
@@ -384,8 +414,12 @@ mindmap
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/color/48/000000/topic.png" alt="Connect" width="35" height="35" style="vertical-align: middle;" /> 
-  Let's Connect & Collaborate!
+  <table align="center">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/topic.png" alt="Connect" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">Let's Connect & Collaborate!</span></td>
+    </tr>
+  </table>
 </h2>
 
 <div align="center">
@@ -398,8 +432,12 @@ I'm always excited to work on interesting projects and connect with fellow devel
 [![Discord](https://img.shields.io/badge/Discord-Chat_Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1068481777418649650)
 
 <h3 align="center">
-  <img src="https://img.icons8.com/color/48/000000/idea.png" alt="Idea" width="30" height="30" style="vertical-align: middle;" /> 
-  Available For
+  <table align="center">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/idea.png" alt="Idea" width="30" height="30" /></td>
+      <td><span style="font-size: 20px;">Available For</span></td>
+    </tr>
+  </table>
 </h3>
 
 ✅ **Freelance Projects** • ✅ **Full-time Roles** • ✅ **Open Source** • ✅ **Mentorship** • ✅ **Tech Talks**
@@ -413,8 +451,12 @@ I'm always excited to work on interesting projects and connect with fellow devel
 <div align="center">
 
 <h3 align="center">
-  <img src="https://img.icons8.com/color/48/000000/quote.png" alt="Quote" width="30" height="30" style="vertical-align: middle;" /> 
-  Words I Live By
+  <table align="center">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/quote.png" alt="Quote" width="30" height="30" /></td>
+      <td><span style="font-size: 20px;">Words I Live By</span></td>
+    </tr>
+  </table>
 </h3>
 
 > *"The best way to predict the future is to create it."* — Peter Drucker

@@ -49,48 +49,163 @@ const ridoy = {
 
 ## 🔥 Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>Backend Development</h3>
-    </td>
-    <td align="center" width="25%">
-      <h3>Database & Storage</h3>
-    </td>
-    <td align="center" width="25%">
-      <h3>Frontend Development</h3>
-    </td>
-    <td align="center" width="25%">
-      <h3>DevOps & Tools</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=prisma" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=javascript" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,firebase" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=postman" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <h3>🌱 Currently Learning</h3>
-      <img src="https://skillicons.dev/icons?i=go,kubernetes" />
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🎯 Backend & Server
+
+<p align="center">
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  </a>
+  <a href="https://nestjs.com">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+  </a>
+  <a href="https://www.prisma.io">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+  </a>
+</p>
+
+```yaml
+Expertise:
+  - RESTful API Design
+  - GraphQL Implementation
+  - Microservices Architecture
+  - Authentication & Authorization
+```
+
+</td>
+<td align="center" width="50%">
+
+#### 🗄️ Database & Caching
+
+<p align="center">
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  </a>
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  </a>
+  <a href="https://www.prisma.io">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+  </a>
+</p>
+
+```yaml
+Expertise:
+  - Database Schema Design
+  - Query Optimization
+  - Data Modeling
+  - Caching Strategies
+```
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+#### ⚛️ Frontend & UI
+
+<p align="center">
+  <a href="https://react.dev">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <a href="https://nextjs.org">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a>
+  <a href="https://redux.js.org">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+  </a>
+</p>
+
+```yaml
+Expertise:
+  - Component Architecture
+  - State Management
+  - Responsive Design
+  - Modern UI/UX Patterns
+```
+
+</td>
+<td align="center" width="50%">
+
+#### 🛠️ DevOps & Tools
+
+<p align="center">
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="https://firebase.google.com">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  </a>
+</p>
+
+```yaml
+Expertise:
+  - Containerization
+  - CI/CD Pipelines
+  - Version Control
+  - API Testing
+```
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+#### 🌱 Currently Learning & Exploring
+
+<p align="center">
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  </a>
+  <a href="https://kubernetes.io">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  </a>
+</p>
+
+```yaml
+Focus Areas:
+  - Go Programming & Concurrency
+  - Container Orchestration
+  - System Design Patterns
+  - Cloud Native Architecture
+```
+
+</td>
+</tr>
 </table>
+
+</div>
 
 ---
 
@@ -178,7 +293,7 @@ Comprehensive patient & diagnostic management
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nodeNINJAr&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nodeNINJAr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -209,22 +324,34 @@ Comprehensive patient & diagnostic management
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Ridoy))
-    Backend Mastery
-      Go Programming
-      System Design
-      Microservices
-    Full Stack Growth
-      Next.js 15
-      Server Components
-      Edge Functions
-    Open Source
-      Contributing
-      Building in Public
-      Community
-```
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🚀 Backend Mastery
+- Go Programming
+- System Design
+- Microservices Architecture
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Full Stack Growth
+- Next.js 15
+- Server Components
+- Edge Functions
+
+</td>
+<td width="33%" align="center">
+
+### 🌟 Open Source
+- Contributing to Projects
+- Building in Public
+- Community Engagement
+
+</td>
+</tr>
+</table>
 
 </div>
 

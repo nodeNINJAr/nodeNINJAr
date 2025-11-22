@@ -17,7 +17,7 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> -->
 
-### <img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="30" height="30" /> About Me
+### <div style="display:flex; justify-content:left; align-items:center"><img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="30" height="30" /> About Me</div>
 
 ```javascript
 const ridoy = {

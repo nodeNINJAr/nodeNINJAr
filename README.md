@@ -53,7 +53,14 @@ const ridoy = {
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Code" width="35" height="35" /> Tech Stack & Tools
+  <table align="left">
+    <tr>
+      <td><img src="https://img.icons8.com/color/48/000000/developer.png" alt="Projects" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">About Me</span></td>
+    </tr>
+  </table>
+
+
 
 <div align="center">
 

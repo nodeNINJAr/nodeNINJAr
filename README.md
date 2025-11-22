@@ -60,7 +60,7 @@ const ridoy = {
     </tr>
   </table>
   </h1> 
-
+  <br clear="left"/>
 <div align="center">
 
 <table>

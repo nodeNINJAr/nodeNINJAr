@@ -17,7 +17,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About Me
+### <img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="30" height="30" /> About Me
 
 ```javascript
 const ridoy = {
@@ -47,7 +47,7 @@ const ridoy = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> Tech Stack & Tools
+## <img src="https://img.icons8.com/fluency/48/000000/code.png" alt="Code" width="35" height="35" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -55,7 +55,7 @@ const ridoy = {
 <tr>
 <td align="center" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> Backend & Server
+#### <img src="https://img.icons8.com/color/48/000000/server.png" alt="Server" width="25" height="25" /> Backend & Server
 
 <p align="center">
   <a href="https://nodejs.org">
@@ -86,7 +86,7 @@ Expertise:
 </td>
 <td align="center" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Database & Caching
+#### <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" width="25" height="25" /> Database & Caching
 
 <p align="center">
   <a href="https://www.postgresql.org">
@@ -117,7 +117,7 @@ Expertise:
 <tr>
 <td align="center" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom" width="25" height="25" /> Frontend & UI
+#### <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="25" height="25" /> Frontend & UI
 
 <p align="center">
   <a href="https://react.dev">
@@ -148,7 +148,7 @@ Expertise:
 </td>
 <td align="center" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> DevOps & Tools
+#### <img src="https://img.icons8.com/color/48/000000/docker.png" alt="DevOps" width="25" height="25" /> DevOps & Tools
 
 <p align="center">
   <a href="https://www.docker.com">
@@ -182,7 +182,7 @@ Expertise:
 <tr>
 <td colspan="2" align="center">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning & Exploring
+#### <img src="https://img.icons8.com/color/48/000000/book.png" alt="Learning" width="25" height="25" /> Currently Learning & Exploring
 
 <p align="center">
   <a href="https://go.dev">
@@ -209,7 +209,7 @@ Focus Areas:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
+## <img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" /> Featured Projects
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Focus Areas:
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" alt="Credit Card" width="30" height="30" /> Digital Wallet System
+### <img src="https://img.icons8.com/color/48/000000/wallet.png" alt="Wallet" width="30" height="30" /> Digital Wallet System
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/digital-wallet-system)
 
 Modern digital wallet with real-time transactions
@@ -232,7 +232,7 @@ Modern digital wallet with real-time transactions
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="30" height="30" /> Nexus Tech
+### <img src="https://img.icons8.com/color/48/000000/business.png" alt="Business" width="30" height="30" /> Nexus Tech
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/nexus-tech-client)
 [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://nexustech-b3673.web.app)
 
@@ -249,7 +249,7 @@ Enterprise HR & employee management platform
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" /> SayEasy
+### <img src="https://img.icons8.com/color/48/000000/geography.png" alt="Global" width="30" height="30" /> SayEasy
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/sayEasy-client)
 [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://sayeasy-95352.web.app)
 
@@ -263,7 +263,7 @@ Global language tutoring marketplace
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" alt="Medical" width="30" height="30" /> Digital Diagnostics
+### <img src="https://img.icons8.com/color/48/000000/health-book.png" alt="Healthcare" width="30" height="30" /> Digital Diagnostics
 [![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)](https://github.com/nodeNINJAr)
 
 Comprehensive patient & diagnostic management
@@ -281,7 +281,7 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" height="35" /> GitHub Statistics
+## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Statistics" width="35" height="35" /> GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
@@ -298,7 +298,7 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Growth" width="35" height="35" /> Contribution Graph
+## <img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Growth" width="35" height="35" /> Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeNINJAr&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" />
@@ -306,21 +306,21 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> What I Bring to the Table
+## <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Skills" width="35" height="35" /> What I Bring to the Table
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" height="30" /> Backend Architecture | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="30" height="30" /> Database Design | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="30" height="30" /> API Development |
+| <img src="https://img.icons8.com/color/48/000000/server.png" alt="Backend" width="30" height="30" /> Backend Architecture | <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" width="30" height="30" /> Database Design | <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API" width="30" height="30" /> API Development |
 |:---:|:---:|:---:|
 | Scalable microservices | Optimized schemas | RESTful & GraphQL |
-| **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Lock" width="30" height="30" /> Authentication** | **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" height="30" /> Containerization** | **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="30" height="30" /> Modern UI/UX** |
+| **<img src="https://img.icons8.com/color/48/000000/security-checked.png" alt="Security" width="30" height="30" /> Authentication** | **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="30" height="30" /> Containerization** | **<img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Design" width="30" height="30" /> Modern UI/UX** |
 | JWT, OAuth, Sessions | Docker deployments | React ecosystems |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bullseye.png" alt="Target" width="35" height="35" /> Current Focus
+## <img src="https://img.icons8.com/color/48/000000/bullseye.png" alt="Focus" width="35" height="35" /> Current Focus
 
 <div align="center">
 
@@ -352,17 +352,17 @@ mindmap
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="35" height="35" /> Quick Facts
+## <img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" /> Quick Facts
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" /> Physics grad who fell in love with code  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" /> Backend enthusiast with full-stack capabilities  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" /> Love architecting scalable systems  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" /> Coffee-powered developer ☕  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" /> Open to exciting opportunities  
+<img src="https://img.icons8.com/color/48/000000/physics.png" alt="Physics" width="30" height="30" /> Physics grad who fell in love with code  
+<img src="https://img.icons8.com/color/48/000000/code.png" alt="Code" width="30" height="30" /> Backend enthusiast with full-stack capabilities  
+<img src="https://img.icons8.com/color/48/000000/structural.png" alt="Architecture" width="30" height="30" /> Love architecting scalable systems  
+<img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" alt="Coffee" width="30" height="30" /> Coffee-powered developer  
+<img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Collaboration" width="30" height="30" /> Open to exciting opportunities  
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Mail" width="35" height="35" /> Let's Connect & Collaborate!
+## <img src="https://img.icons8.com/color/48/000000/topic.png" alt="Connect" width="35" height="35" /> Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -373,7 +373,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmehedihasan7@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Chat_Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1068481777418649650)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" height="30" /> Available For
+### <img src="https://img.icons8.com/color/48/000000/idea.png" alt="Idea" width="30" height="30" /> Available For
 
 ✅ **Freelance Projects** • ✅ **Full-time Roles** • ✅ **Open Source** • ✅ **Mentorship** • ✅ **Tech Talks**
 
@@ -385,7 +385,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought" width="30" height="30" /> Words I Live By
+### <img src="https://img.icons8.com/color/48/000000/quote.png" alt="Quote" width="30" height="30" /> Words I Live By
 
 > *"The best way to predict the future is to create it."* — Peter Drucker
 

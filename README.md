@@ -68,6 +68,20 @@ My physics background enhances my analytical thinking, enabling me to design cle
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 
 </div>
+### ⚙️ Backend  
+`Node.js` • `Express.js` • `TypeScript` • `TypeORM`
+
+### 🗄️ Database & ORM  
+`PostgreSQL` • `Prisma`
+
+### 🐳 DevOps  
+`Docker`
+
+### 🎨 Frontend  
+`React` • `Next.js` • `Redux` • `JavaScript` • `HTML` • `CSS`
+
+### 🛠 Tools  
+`Git` • `VS Code` • `NPM`
 
 ---
 

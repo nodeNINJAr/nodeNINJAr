@@ -339,43 +339,30 @@ Comprehensive patient & diagnostic management
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/color/48/000000/server.png" alt="Backend" width="40" height="40" />
-
-### 🚀 Backend Mastery
-- Go Programming
-- System Design
-- Microservices Architecture
-- Performance Optimization
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Full Stack" width="40" height="40" />
-
-### 💻 Full Stack Growth
-- Next.js 15
-- Server Components
-- Edge Computing
-- Real-time Applications
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.icons8.com/color/48/000000/crowd.png" alt="Open Source" width="40" height="40" />
-
-### 🌟 Open Source
-- Contributing to Projects
-- Building in Public
-- Community Engagement
-- Collaboration
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2D9EF7','primaryTextColor':'#fff','primaryBorderColor':'#1E88E5','lineColor':'#42A5F5','secondaryColor':'#64B5F6','tertiaryColor':'#90CAF9','background':'#0D1117','mainBkg':'#1E3A5F','secondBkg':'#2D9EF7','textColor':'#E1E4E8','fontSize':'16px'}}}%%
+mindmap
+  root((👨‍💻 Ridoy<br/>2025))
+    🚀 Backend Mastery
+      Go Programming
+      System Design
+      Microservices
+      Performance Optimization
+    💻 Full Stack Growth
+      Next.js 15
+      Server Components
+      Edge Computing
+      Real-time Apps
+    🌟 Open Source
+      Contributing
+      Building in Public
+      Community
+      Collaboration
+    📚 Learning
+      Cloud Architecture
+      DevOps Practices
+      Design Patterns
+```
 
 </div>
 

@@ -9,15 +9,15 @@
   <a href="mailto:devmehedihasan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div> -->
+</div>
 
 ---
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-### <div style="display:flex; justify-content:left; align-items:center"><img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="30" height="30" /> About Me</div>
+### <img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="35" height="35" /> About Me
 
 ```javascript
 const ridoy = {
@@ -218,8 +218,7 @@ Focus Areas:
 <td width="50%">
 
 ### <img src="https://img.icons8.com/color/48/000000/wallet.png" alt="Wallet" width="30" height="30" /> Digital Wallet System
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/Digital-Wallet-System-frontend/tree/development)
-[![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://degital-wallet.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/digital-wallet-system)
 
 Modern digital wallet with real-time transactions
 
@@ -325,29 +324,43 @@ Comprehensive patient & diagnostic management
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Ridoy<br/>2025))
-    Backend Mastery
-      Go Programming
-      System Design
-      Microservices
-      Performance Optimization
-    Full Stack Growth
-      Next.js 15
-      Server Components
-      Edge Computing
-      Real-time Apps
-    Open Source
-      Contributing
-      Building in Public
-      Community
-      Collaboration
-    Learning
-      Cloud Architecture
-      DevOps Practices
-      Best Patterns
-```
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/48/000000/server.png" alt="Backend" width="40" height="40" />
+
+### 🚀 Backend Mastery
+- Go Programming
+- System Design
+- Microservices Architecture
+- Performance Optimization
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Full Stack" width="40" height="40" />
+
+### 💻 Full Stack Growth
+- Next.js 15
+- Server Components
+- Edge Computing
+- Real-time Applications
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/48/000000/crowd.png" alt="Open Source" width="40" height="40" />
+
+### 🌟 Open Source
+- Contributing to Projects
+- Building in Public
+- Community Engagement
+- Collaboration
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -355,11 +368,13 @@ mindmap
 
 ## <img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" /> Quick Facts
 
-<img src="https://img.icons8.com/color/48/000000/physics.png" alt="Physics" width="30" height="30" /> Physics grad who fell in love with code  
-<img src="https://img.icons8.com/color/48/000000/code.png" alt="Code" width="30" height="30" /> Backend enthusiast with full-stack capabilities  
-<img src="https://img.icons8.com/color/48/000000/structural.png" alt="Architecture" width="30" height="30" /> Love architecting scalable systems  
-<img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" alt="Coffee" width="30" height="30" /> Coffee-powered developer  
-<img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Collaboration" width="30" height="30" /> Open to exciting opportunities  
+<p>
+<img src="https://img.icons8.com/color/48/000000/physics.png" alt="Physics" width="35" height="35" /> Physics grad who fell in love with code<br>
+<img src="https://img.icons8.com/color/48/000000/code.png" alt="Code" width="35" height="35" /> Backend enthusiast with full-stack capabilities<br>
+<img src="https://img.icons8.com/color/48/000000/structural.png" alt="Architecture" width="35" height="35" /> Love architecting scalable systems<br>
+<img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" alt="Coffee" width="35" height="35" /> Coffee-powered developer<br>
+<img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Collaboration" width="35" height="35" /> Open to exciting opportunities
+</p>  
 
 ---
 

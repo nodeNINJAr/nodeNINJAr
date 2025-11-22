@@ -218,7 +218,8 @@ Focus Areas:
 <td width="50%">
 
 ### 💳 Digital Wallet System
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/digital-wallet-system)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/Digital-Wallet-System-frontend/tree/development)
+[![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://degital-wallet.netlify.app/)
 
 Modern digital wallet with real-time transactions
 

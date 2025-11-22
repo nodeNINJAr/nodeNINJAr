@@ -17,14 +17,12 @@
 <h2>
   <table align="left">
     <tr>
-      <td><img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" /></td>
-      <td><span style="font-size: 24px;">Featured Projects</span></td>
+      <td><img src="https://img.icons8.com/color/48/000000/developer.png" alt="Projects" width="35" height="35" /></td>
+      <td><span style="font-size: 24px;">About Me</span></td>
     </tr>
   </table>
 </h2>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-### <img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer" width="35" height="35" /> About Me
 
 ```javascript
 const ridoy = {

@@ -324,34 +324,29 @@ Comprehensive patient & diagnostic management
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🚀 Backend Mastery
-- Go Programming
-- System Design
-- Microservices Architecture
-
-</td>
-<td width="33%" align="center">
-
-### 💻 Full Stack Growth
-- Next.js 15
-- Server Components
-- Edge Functions
-
-</td>
-<td width="33%" align="center">
-
-### 🌟 Open Source
-- Contributing to Projects
-- Building in Public
-- Community Engagement
-
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((Ridoy<br/>2025))
+    Backend Mastery
+      Go Programming
+      System Design
+      Microservices
+      Performance Optimization
+    Full Stack Growth
+      Next.js 15
+      Server Components
+      Edge Computing
+      Real-time Apps
+    Open Source
+      Contributing
+      Building in Public
+      Community
+      Collaboration
+    Learning
+      Cloud Architecture
+      DevOps Practices
+      Best Patterns
+```
 
 </div>
 

@@ -52,37 +52,6 @@ My physics background enhances my analytical thinking, enabling me to design cle
 
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-
-</div>
-### ⚙️ Backend  
-`Node.js` • `Express.js` • `TypeScript` • `TypeORM`
-
-### 🗄️ Database & ORM  
-`PostgreSQL` • `Prisma`
-
-### 🐳 DevOps  
-`Docker`
-
-### 🎨 Frontend  
-`React` • `Next.js` • `Redux` • `JavaScript` • `HTML` • `CSS`
-
-### 🛠 Tools  
-`Git` • `VS Code` • `NPM`
-
 ---
 
 ## 🏗️ Projects  

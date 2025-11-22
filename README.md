@@ -49,41 +49,48 @@ const ridoy = {
 
 ## 🔥 Tech Stack & Tools
 
-<div align="center">
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Currently Learning
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>Backend Development</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>Database & Storage</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>Frontend Development</h3>
+    </td>
+    <td align="center" width="25%">
+      <h3>DevOps & Tools</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=prisma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=javascript" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,firebase" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=postman" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <h3>🌱 Currently Learning</h3>
+      <img src="https://skillicons.dev/icons?i=go,kubernetes" />
+    </td>
+  </tr>
+</table>
 
 ---
 

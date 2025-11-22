@@ -49,7 +49,7 @@ const ridoy = {
 };
 ```
 
-<br clear="right"/>
+<br clear="left"/>
 
 
  <h1>

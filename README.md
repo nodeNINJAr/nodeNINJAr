@@ -209,7 +209,10 @@ Focus Areas:
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" /> Featured Projects
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/project.png" alt="Projects" width="35" height="35" style="vertical-align: middle;" /> 
+  Featured Projects
+</h2>
 
 <div align="center">
 
@@ -281,7 +284,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Statistics" width="35" height="35" /> GitHub Statistics
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Statistics" width="35" height="35" style="vertical-align: middle;" /> 
+  GitHub Statistics
+</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
@@ -298,7 +304,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Growth" width="35" height="35" /> Contribution Graph
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Growth" width="35" height="35" style="vertical-align: middle;" /> 
+  Contribution Graph
+</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeNINJAr&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" />
@@ -306,7 +315,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Skills" width="35" height="35" /> What I Bring to the Table
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Skills" width="35" height="35" style="vertical-align: middle;" /> 
+  What I Bring to the Table
+</h2>
 
 <div align="center">
 
@@ -320,7 +332,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/bullseye.png" alt="Focus" width="35" height="35" /> Current Focus
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/bullseye.png" alt="Focus" width="35" height="35" style="vertical-align: middle;" /> 
+  Current Focus
+</h2>
 
 <div align="center">
 
@@ -366,7 +381,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" /> Quick Facts
+<h2>
+  <img src="https://img.icons8.com/color/48/000000/star--v1.png" alt="Star" width="35" height="35" style="vertical-align: middle;" /> 
+  Quick Facts
+</h2>
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/physics.png" alt="Physics" width="35" height="35" /> Physics grad who fell in love with code<br>
@@ -378,7 +396,10 @@ Comprehensive patient & diagnostic management
 
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/topic.png" alt="Connect" width="35" height="35" /> Let's Connect & Collaborate!
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/000000/topic.png" alt="Connect" width="35" height="35" style="vertical-align: middle;" /> 
+  Let's Connect & Collaborate!
+</h2>
 
 <div align="center">
 
@@ -389,7 +410,10 @@ I'm always excited to work on interesting projects and connect with fellow devel
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmehedihasan7@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Chat_Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1068481777418649650)
 
-### <img src="https://img.icons8.com/color/48/000000/idea.png" alt="Idea" width="30" height="30" /> Available For
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/idea.png" alt="Idea" width="30" height="30" style="vertical-align: middle;" /> 
+  Available For
+</h3>
 
 ✅ **Freelance Projects** • ✅ **Full-time Roles** • ✅ **Open Source** • ✅ **Mentorship** • ✅ **Tech Talks**
 
@@ -401,7 +425,10 @@ I'm always excited to work on interesting projects and connect with fellow devel
 
 <div align="center">
 
-### <img src="https://img.icons8.com/color/48/000000/quote.png" alt="Quote" width="30" height="30" /> Words I Live By
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/quote.png" alt="Quote" width="30" height="30" style="vertical-align: middle;" /> 
+  Words I Live By
+</h3>
 
 > *"The best way to predict the future is to create it."* — Peter Drucker
 

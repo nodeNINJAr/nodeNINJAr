@@ -54,20 +54,45 @@ My physics background enhances my analytical thinking, enabling me to design cle
 
 ---
 
-## 🏗️ Projects  
+## 🚀 Projects
 
-### [Nexus Tech](https://github.com/nodeNINJAr/nexus-tech-client)  
-**Description**: An employee management web app for streamlining HR operations and managing employee data.  
-**Tech Stack**: React, Express, MongoDB, Firebase.    
-**Live Demo**: [https://nexustech-b3673.web.app](https://nexustech-b3673.web.app)
+### 💳 Digital Wallet System
+[🔗 GitHub Repo](https://github.com/nodeNINJAr/digital-wallet-system)
 
+**📝 Description:**  
+A secure and modern digital wallet application to manage transactions, send/receive money, and track financial activity efficiently.
 
-### [SayEasy](https://github.com/nodeNINJAr/sayEasy-client)  
-**Description**: A platform for booking language tutors globally.  
-**Tech Stack**: React, Express, MongoDB, Firebase.    
-**Live Demo**: [https://sayeasy-95352.web.app](https://sayeasy-95352.web.app)  
+**🛠 Tech Stack:**
+- **Frontend:** `React 19`, `TypeScript`, `TailwindCSS + Tailwind Merge`, `Redux Toolkit`, `React Hook Form + Zod`, `Framer Motion`
+- **UI Components:** `Radix UI` (Accordion, Avatar, Dialog, Dropdown, Label, Select, Switch, Tabs, Slot, Separator), `Lucide React` (Icons)
+- **Utilities & Libraries:** `Axios`, `JS-Cookie`, `JWT-Decode`, `Date-fns`, `Class Variance Authority`, `Driver.js` (guided tours), `Sonner` (notifications)
+- **Dev Tools:** `Vite`, `ESLint`, `TypeScript`, `tw-animate-css`
+
+**🌐 Live Demo:** [Live Demo Link](#)
 
 ---
+
+### 📁 Nexus Tech
+[🔗 GitHub Repo](https://github.com/nodeNINJAr/nexus-tech-client)
+
+**📝 Description:**  
+A full-featured employee management web app to streamline HR operations, manage employee data, and improve workflow efficiency.
+
+**🛠 Tech Stack:** `React`, `Express`, `MongoDB`, `Firebase`
+
+**🌐 Live Demo:** https://nexustech-b3673.web.app
+
+---
+
+### 🌍 SayEasy
+[🔗 GitHub Repo](https://github.com/nodeNINJAr/sayEasy-client)
+
+**📝 Description:**  
+A global platform to book language tutors, enabling seamless learning from anywhere in the world.
+
+**🛠 Tech Stack:** `React`, `Express`, `MongoDB`, `Firebase`
+
+**🌐 Live Demo:** https://sayeasy-95352.web.app
 
 ## 📊 Stats  
 

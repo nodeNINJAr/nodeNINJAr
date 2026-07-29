@@ -347,16 +347,12 @@ Comprehensive patient & diagnostic management
 <br clear="left"/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nodeNINJAr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=nodeNINJAr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nodeNINJAr&theme=radical" alt="GitHub profile details" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeNINJAr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nodeNINJAr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" alt="Trophy" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nodeNINJAr&theme=radical" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nodeNINJAr&theme=radical" alt="Top repository languages" />
 </div>
 
 ---

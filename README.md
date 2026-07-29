@@ -9,11 +9,25 @@
   <a href="mailto:devmehedihasan7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <strong>Backend-focused full-stack developer building scalable APIs, reliable systems, and useful digital products.</strong><br/>
+  <sub>Based in Dhaka, Bangladesh · Open to freelance, full-time, and collaborative opportunities</sub>
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#github-statistics">Statistics</a> •
+  <a href="#contact">Contact</a>
+</p>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated developer banner">
 </div>
 
 ---
+<a id="about-me"></a>
 <h2>
   <table align="left">
     <tr>
@@ -23,7 +37,7 @@
   </table>
 </h2>
  <br clear="left"/>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="Developer coding animation">
 
 ```javascript
 const ridoy = {
@@ -50,6 +64,7 @@ const ridoy = {
 ```
 
 ---
+<a id="tech-stack"></a>
  <h1>
   <table align="left">
     <tr>
@@ -255,6 +270,7 @@ Focus Areas:
 
 ---
 
+<a id="featured-projects"></a>
 <h2>
   <table align="left">
     <tr>
@@ -275,7 +291,7 @@ Focus Areas:
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/Digital-Wallet-System-frontend/tree/development)
 [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://degital-wallet.netlify.app/)
 
-Modern digital wallet with real-time transactions
+Modern digital wallet with real-time transaction workflows.
 
 **Built with:**
 - React 19 + TypeScript
@@ -291,7 +307,7 @@ Modern digital wallet with real-time transactions
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/nexus-tech-client)
 [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://nexustech-b3673.web.app)
 
-Enterprise HR & employee management platform
+Enterprise HR and employee management platform for modern teams.
 
 **Built with:**
 - React + Express.js
@@ -308,7 +324,7 @@ Enterprise HR & employee management platform
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/nodeNINJAr/sayEasy-client)
 [![Live](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat-square)](https://sayeasy-95352.web.app)
 
-Global language tutoring marketplace
+Global language tutoring marketplace with a real-time booking experience.
 
 **Built with:**
 - React + Express.js
@@ -321,7 +337,7 @@ Global language tutoring marketplace
 ### <img src="https://img.icons8.com/color/48/000000/health-book.png" alt="Healthcare" width="30" height="30" /> Digital Diagnostics
 [![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)](https://github.com/nodeNINJAr)
 
-Comprehensive patient & diagnostic management
+Comprehensive patient and diagnostic management platform.
 
 **Built with:**
 - Node.js + TypeScript
@@ -336,6 +352,7 @@ Comprehensive patient & diagnostic management
 
 ---
 
+<a id="github-statistics"></a>
 <h2>
   <table align="left">
     <tr>
@@ -457,6 +474,7 @@ mindmap
 
 ---
 
+<a id="contact"></a>
 <h2 align="center">
   <table align="center">
     <tr>
@@ -505,7 +523,7 @@ I'm always excited to work on interesting projects and connect with fellow devel
 
 > *"The best way to predict the future is to create it."* — Peter Drucker
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" alt="Decorative coding animation">
 
 **⭐ From [nodeNINJAr](https://github.com/nodeNINJAr) • Made with ❤️ and lots of ☕**
 

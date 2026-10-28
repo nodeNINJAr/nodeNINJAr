@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Mehedi Hasan Ridoy — backend developer and physics graduate, focused on system design and learning Rust. Architecture sketch: client, API service, async worker, and data layer." />
+<img src="./assets/header.svg" width="100%" alt="Mehedi Hasan Ridoy — backend developer and physics graduate. Focus: system design. Currently learning Rust. Custom illustration of connected services." />
 
 <br/>
 
@@ -20,29 +20,27 @@
 
 [About](#about-me) &nbsp; · &nbsp; [Current focus](#current-focus) &nbsp; · &nbsp; [Projects](#featured-projects) &nbsp; · &nbsp; [Toolbox](#tech-stack) &nbsp; · &nbsp; [Activity](#github-statistics) &nbsp; · &nbsp; [Contact](#contact)
 
-<br/>
-
-<img src="./assets/focus.svg" width="100%" alt="Current priorities: design systems, learn Rust, and build products." />
-
 </div>
 
 <br/>
 
 <a id="about-me"></a>
-## 👨‍💻 A little about the engineer
+## 👨‍💻 The person behind the code
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Developer coding animation" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Developer coding animation" />
 
 I'm **Ridoy**, a physics graduate who found his way into software through curiosity and problem solving.
 
-I enjoy building APIs, modeling data, and connecting the pieces that make a product work. These days, I'm spending more time on the questions behind the code: **What are the constraints? Where will this fail? Which trade-off makes sense?**
+I work across APIs, databases, and interfaces, with my attention increasingly on **system design**: the decisions that make software understandable, reliable, and easier to evolve.
+
+I’m currently learning **Rust** and building **Digital Diagnostics**. My physics background keeps me curious about how things work beneath the surface.
 
 ```typescript
 const ridoy = {
   building: "Digital Diagnostics System",
   focusedOn: "System Design",
   learning: "Rust 🦀",
-  approach: "Understand → Build → Measure → Refine",
+  approach: "Learn → Build → Refine",
   poweredBy: ["Physics", "Curiosity", "Coffee"],
 };
 ```
@@ -50,43 +48,44 @@ const ridoy = {
 <br clear="both"/>
 
 <a id="current-focus"></a>
-## 🧭 The next layer: systems & Rust
+## 🧭 Where my curiosity is taking me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/focus.svg" width="100%" alt="Current learning focus: system design and Rust. An API and data flow diagram alongside a Rust code illustration." />
 
-### 🏗️ System design
-**Learning to reason about the whole system.**
+**🏗️ System design** — requirements and capacity, service boundaries, database design, caching, queues, and the trade-offs behind reliability.
 
-- Requirements, constraints & capacity estimates
-- Service boundaries & API contracts
-- Data modeling, indexes & caching
-- Queues, retries & idempotency
-- Consistency, availability & failure recovery
-- Observability & performance bottlenecks
+**🦀 Rust** — ownership and borrowing, lifetimes, traits, error handling, and concurrency fundamentals.
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>Open my learning map</b></summary>
 
-### 🦀 Learning Rust
-**Building a stronger understanding of how code works.**
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#15243b','primaryTextColor':'#f1f5ff','primaryBorderColor':'#55b5ff','lineColor':'#758cab','secondaryColor':'#302742','tertiaryColor':'#293045'}}}%%
+mindmap
+  root((Learn / Build / Refine))
+    System Design
+      Requirements and Constraints
+      Data Models and Indexes
+      Caching and Queues
+      Reliability and Observability
+    Learning Rust
+      Ownership and Borrowing
+      Traits and Lifetimes
+      Error Handling
+      Concurrency
+    Putting It to Work
+      Digital Diagnostics
+      DSA with C++
+      Small Experiments
+      Open Source
+```
 
-- Ownership, borrowing & lifetimes
-- Structs, enums & pattern matching
-- Traits, generics & composition
-- `Option`, `Result` & error handling
-- Concurrency & async fundamentals
-- Small programs to put the concepts into practice
+</details>
 
-</td>
-</tr>
-</table>
-
-> **My study loop:** choose a problem → sketch a design → build a small version → examine the trade-offs.
+<br/>
 
 <a id="featured-projects"></a>
-## 🚀 Selected builds
+## 🚀 From ideas to working products
 
 <table>
 <tr>
@@ -94,7 +93,7 @@ const ridoy = {
 
 <a href="https://github.com/nodeNINJAr/Digital-Wallet-System-frontend/tree/development"><img src="./assets/wallet.svg" width="100%" alt="Digital Wallet System — React 19, TypeScript, and RTK Query" /></a>
 
-A digital wallet interface for managing transaction workflows, with typed forms and application state.
+**Digital Wallet System** — a digital wallet interface for transaction workflows, typed forms, and application state.
 
 <sub>React Hook Form · Zod · Tailwind CSS · Framer Motion</sub>
 
@@ -105,7 +104,7 @@ A digital wallet interface for managing transaction workflows, with typed forms 
 
 <a href="https://github.com/nodeNINJAr/nexus-tech-client"><img src="./assets/nexus.svg" width="100%" alt="Nexus Tech — React, Express, and MongoDB" /></a>
 
-An employee management platform covering employee records, roles, and HR workflows.
+**Nexus Tech** — an employee management platform covering employee records, roles, and HR workflows.
 
 <sub>React · Express.js · MongoDB · Firebase · Material UI</sub>
 
@@ -118,7 +117,7 @@ An employee management platform covering employee records, roles, and HR workflo
 
 <a href="https://github.com/nodeNINJAr/sayEasy-client"><img src="./assets/sayeasy.svg" width="100%" alt="SayEasy — React, Express, and Firebase" /></a>
 
-A language tutoring marketplace connecting learners with tutors through booking workflows.
+**SayEasy** — a language tutoring marketplace connecting learners with tutors through booking workflows.
 
 <sub>React · Express.js · MongoDB · Firebase</sub>
 
@@ -129,18 +128,18 @@ A language tutoring marketplace connecting learners with tutors through booking 
 
 <img src="./assets/diagnostics.svg" width="100%" alt="Digital Diagnostics — in development with Node.js, PostgreSQL, and Prisma" />
 
-A patient and diagnostic management platform. My current build, bringing backend and frontend workflows together.
+**Digital Diagnostics** — my current build: a patient and diagnostic management platform. **In development.**
 
 <sub>Node.js · TypeScript · PostgreSQL · Prisma · Next.js · Tailwind CSS</sub>
 
-<img src="https://img.shields.io/badge/●_IN_DEVELOPMENT-FB923C?style=flat-square&amp;labelColor=0D1117" alt="In development" />
+<sub>Current project · In development</sub>
 
 </td>
 </tr>
 </table>
 
 <a id="tech-stack"></a>
-## 🛠️ The toolbox
+## 🛠️ Tools I build with
 
 <table>
 <tr>
@@ -217,7 +216,9 @@ A patient and diagnostic management platform. My current build, bringing backend
 <br/>
 
 <a id="contact"></a>
-## 🤝 Let's build something useful
+## 🤝 Let’s connect
+
+<a href="mailto:devmehedihasan7@gmail.com"><img src="./assets/connect.svg" width="100%" alt="Good systems start with a conversation. Open to freelance, full-time, and collaboration." /></a>
 
 <div align="center">
 
@@ -238,7 +239,7 @@ I'd love to connect.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="220" alt="Decorative coding animation" />
 
-*Understand the fundamentals. Make the trade-offs explicit. Keep building.*
+*Physics taught me to ask why. Engineering gives me a way to build the answer.*
 
 <img src="https://komarev.com/ghpvc/?username=nodeNINJAr&amp;label=Profile%20Views&amp;color=2D9EF7&amp;style=flat-square" alt="Profile views" />
 
